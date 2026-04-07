@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "微博爬虫工具",
+  "version": "2.0",
+  "description": "微博爬虫工具，自动注入到页面右下角，支持自动翻页、URL去重",
+  "permissions": [
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://weibo.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://weibo.com/*"],
+      "css": ["content.css"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
