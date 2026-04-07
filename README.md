@@ -4,7 +4,6 @@
 
 ![Version](https://img.shields.io/badge/version-v2.0-blue)
 ![Edge](https://img.shields.io/badge/Edge-Supported-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
 
 ---
 
@@ -323,11 +322,6 @@ weibo_scraper/
 
 欢迎提交 Issue 和 Pull Request！
 
----
-
-## 📜 许可证
-
-MIT License
 
 ---
 
