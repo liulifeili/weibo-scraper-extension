@@ -34,7 +34,7 @@
 #### 1. 下载/克隆项目
 
 ```bash
-git clone https://github.com/yourusername/weibo-scraper.git
+git clone https://github.com/yourusername/weibo-scraper-extension.git
 ```
 
 或者直接下载ZIP文件并解压。
@@ -53,7 +53,7 @@ edge://extensions/
 #### 4. 加载扩展
 
 1. 点击 **"加载解压缩的扩展"** 按钮
-2. 选择项目文件夹 `weibo_scraper`
+2. 选择项目文件夹 `weibo_scraper_extension`
 3. 确认加载
 
 #### 5. 完成安装
