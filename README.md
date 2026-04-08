@@ -333,6 +333,7 @@ weibo_scraper/
 
 ## 🙏 致谢
 
+- 感谢[1dyer大佬](https://github.com/1dyer)的[weibo-comments-extension](https://github.com/1dyer/weibo-comments-extension)样式
 - 微博平台提供的API接口
 - Microsoft Edge 扩展开发文档
 
